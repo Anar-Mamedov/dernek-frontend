@@ -2882,13 +2882,13 @@ h6 {
 }
 
 .main-slider__nav {
-  width: 100%;
+  width: 9%;
   max-width: 1320px;
   padding-left: 15px;
   padding-right: 15px;
   position: absolute;
   top: 70%;
-  left: 50%;
+  left: 92%;
   z-index: 100;
   transform: translateY(-50%) translateX(-50%);
   display: flex;
@@ -7858,3 +7858,12 @@ fotter top end*/
 }
 
 /* dropdown menu end */
+
+
+/* change fonts */
+
+.font-changer{
+font-family: 'Manrope', sans-serif !important;
+}
+
+/* change fonts end */
